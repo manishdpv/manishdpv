@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/manishdpv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/manishdpv" height="30" width="40" /></a>
+<a href="https://dev.to/manishdpv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/manishdpv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-vishwakarma-6aa164191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/manish-vishwakarma-6aa164191" height="30" width="40" /></a>
 <a href="https://fb.com/manish vishwakarma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="manish vishwakarma" height="30" width="40" /></a>
 <a href="https://instagram.com/manishdpv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manishdpv" height="30" width="40" /></a>
